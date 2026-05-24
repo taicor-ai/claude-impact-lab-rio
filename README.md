@@ -27,6 +27,7 @@ Os mais de 6.200 Agentes Comunitários de Saúde (ACS) do Rio conduzem visitas d
 Os times devem transformar esses dados em inteligência acionável que responda, a cada manhã: **quem visitar, em que ordem e por quê**.
 
 **Link para o problema completo:** <https://github.com/prefeitura-rio/claude-impact-lab-saude>
+**Link para apresentação:** <https://docs.google.com/presentation/d/1hf5jq8iFGiDaf3u5UA4Jtd7wQ7eWWchfEn6Fvm0ArOM/>
 
 ## Problema 2 — Segurança pública: CompStat Rio
 
@@ -35,11 +36,12 @@ O CompStat Rio é o modelo de gestão da segurança pública da Prefeitura, insp
 Os times devem construir uma plataforma que cruze essas fontes e responda, para cada área: **onde e como patrulhar, e quais fatores urbanos resolver primeiro**.
 
 **Link para o problema completo:** <https://github.com/CompStat-Rio/claude_impact_lab_compstat_rio>
+**Link para apresentação:** <https://docs.google.com/presentation/d/1Am8jt2xbCAUbawZ15hlXhDZScfIewA5z/>
 
 # 📋 Regras
 
 1. **O projeto começa no evento.** O primeiro commit deve ser feito após as 09:30 do dia 24/05. Projetos com evidências de desenvolvimento anterior serão desclassificados. Bibliotecas, frameworks e APIs preexistentes podem ser usados; a lógica do projeto tem que ser construída no dia.
-2. **Uma submissão por equipe.** Cada equipe submete um único projeto pelo GitHub. Submissões progressivas são aceitas; vale a versão mais recente até o prazo.
+2. **Uma submissão por equipe.** Cada equipe submete um único projeto pelo GitHub, enviando o link do repositório para o email **eventos@taicor.ai**. Submissões progressivas são aceitas; vale a versão mais recente até o prazo.
 3. **Prazo final: 16:15.** Submissões após esse horário serão desconsiderados.
 4. **Repositório público no GitHub.** Os jurados precisam revisar o código. Você pode torná-lo privado após o encerramento.
 

@@ -41,7 +41,7 @@ Os times devem construir uma plataforma que cruze essas fontes e responda, para 
 # 📋 Regras
 
 1. **O projeto começa no evento.** O primeiro commit deve ser feito após as 09:30 do dia 24/05. Projetos com evidências de desenvolvimento anterior serão desclassificados. Bibliotecas, frameworks e APIs preexistentes podem ser usados; a lógica do projeto tem que ser construída no dia.
-2. **Uma submissão por equipe.** Cada equipe submete um único projeto pelo GitHub, enviando o link do repositório para o email **eventos@taicor.ai** com o número do grupo no assunto e no corpo do email. Submissões progressivas são aceitas; vale a versão mais recente até o prazo.
+2. **Uma submissão por equipe.** Cada equipe submete um único projeto pelo GitHub, enviando o link do repositório para o email **eventos@taicor.ai** com o número e o tema do grupo no assunto e no corpo do email. Submissões progressivas são aceitas; vale a versão mais recente até o prazo.
 3. **Prazo final: 16:15.** Submissões após esse horário serão desconsiderados.
 4. **Repositório público no GitHub.** Os jurados precisam revisar o código. Você pode torná-lo privado após o encerramento.
 
